@@ -48,6 +48,23 @@ body{
     display:inline;
     margin: 0 0 0 15px;
  }
+
+ .menu a {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+ }
+
+.menu a:hover{
+   color:red;
+   text-decoration: underline
+}
+
+
+
+   
+
  /* MAIN */
 
  .container{
