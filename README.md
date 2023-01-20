@@ -2,6 +2,11 @@
 
 <h2>Site ainda está em desenvolvimento, irei melhorar muita coisa nele ainda!</h2>
 
+linguagem usadas :
+ ```
+ HTML E CSS 
+ ```
+
 Criei um site com tema do Mario, para homenagear o grande filme que está por vim nesse ano! um site simples porem muito bonito.
 achei muito divertido trabalha neste projeto. 
 
